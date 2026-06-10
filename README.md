@@ -23,13 +23,23 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 #### 🗺️ [AI Civic Issue Mapper](https://github.com/Anushka190921/ai-civic-issue-mapper)
 > A government-style portal where citizens can report civic problems like garbage dumping, broken roads, water leakage and street light failures.
 - 🔐 User authentication with Google login
 - 📍 Location-based issue reporting with image upload
 - 🛠️ Admin dashboard for complaint management
 - 📊 Built with Python Flask + MySQL + Bootstrap
+
+
+#### 🤖 [AI Mock Interview](https://github.com/Anushka190921)
+> An AI-powered mock interview platform that helps students practice interview questions and get instant feedback.
+- 🧠 Powered by Claude AI for smart question generation
+- 💬 Real-time feedback on answers
+- 📝 Covers technical and HR interview questions
+- 🔧 Built with Python Flask + Claude API
+
+---
 
 ---
 
