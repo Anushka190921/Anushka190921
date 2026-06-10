@@ -32,7 +32,7 @@
 - 📊 Built with Python Flask + MySQL + Bootstrap
 
 
-#### 🤖 [AI Mock Interview](https://github.com/Anushka190921)
+#### 🤖 [AI Mock Interview](https://github.com/Anushka190921/mock-interview-ai)
 > An AI-powered mock interview platform that helps students practice interview questions and get instant feedback.
 - 🧠 Powered by Claude AI for smart question generation
 - 💬 Real-time feedback on answers
@@ -43,8 +43,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka190921&show_icons=true&theme=tokyonight)
+![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka190921&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka190921&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
