@@ -80,7 +80,7 @@ B.Tech Computer Science & Engineering (Artificial Intelligence) student focused 
 # Featured Projects
 
 <details>
-<summary><b>🚀 (https://github.com/Anushka190921/mock-interview-ai)</b></summary>
+<summary><b>🚀 Mock Interview AI</b></summary>
 
 | Category | Details |
 |----------|---------|
