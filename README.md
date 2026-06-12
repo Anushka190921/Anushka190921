@@ -174,14 +174,6 @@ Government-style citizen issue reporting platform with AI-assisted categorizatio
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anushka190921&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 # Contribution Activity
 
 <p align="center">
@@ -192,9 +184,7 @@ Government-style citizen issue reporting platform with AI-assisted categorizatio
 
 # Contribution Snake
 
-Configure GitHub Actions to generate:
-
-`github-contribution-grid-snake.svg`
+![Snake](https://raw.githubusercontent.com/Anushka190921/Anushka190921/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
