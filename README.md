@@ -96,7 +96,7 @@ AI-powered interview simulator with automated feedback, role-specific question g
 </details>
 
 <details>
-<summary><b>🏙️ (https://github.com/Anushka190921/ai-civic-issue-mapper)</b></summary>
+<summary><b>🏙️ AI Civic Issue Mapper</b></summary>
 
 | Category | Details |
 |----------|---------|
