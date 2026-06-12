@@ -153,11 +153,6 @@ Government-style citizen issue reporting platform with AI-assisted categorizatio
 ### Kaggle
 ![Kaggle](https://img.shields.io/badge/Kaggle-Python-20BEFF?style=for-the-badge&logo=kaggle)
 
-### Oracle
-![Oracle](https://img.shields.io/badge/Oracle-Future%20Goal-F80000?style=for-the-badge)
-
-### Cisco
-![Cisco](https://img.shields.io/badge/Cisco-Learning-1BA0D7?style=for-the-badge)
 
 ---
 
