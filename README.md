@@ -79,21 +79,6 @@ B.Tech Computer Science & Engineering (Artificial Intelligence) student focused 
 
 # Featured Projects
 
-<details>
-<summary><b>🚀 Mock Interview AI</b></summary>
-
-| Category | Details |
-|----------|---------|
-| Stack | Python, Flask, HTML, CSS, JavaScript, Groq API |
-| Scale | Multi-role Interview Simulation |
-| Performance | Dynamic Question Generation |
-| Security | Backend Processing |
-| Impact | AI-powered Interview Practice |
-| Repository | https://github.com/Anushka190921/mock-interview-ai |
-
-AI-powered interview simulator with automated feedback, role-specific question generation, and practical interview preparation workflows.
-
-</details>
 
 <details>
 <summary><b>🏙️ AI Civic Issue Mapper</b></summary>
